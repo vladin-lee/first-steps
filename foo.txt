@@ -1,3 +1,0 @@
-hello
-change first-steps/foo.txt
-change first-steps/foo.txt two
